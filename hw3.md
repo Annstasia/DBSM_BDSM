@@ -58,5 +58,5 @@
 
 Итого: pouchdb позволяет работать без подключения к couchdb. При подключении произойдет синхронизация данных
 
-
+https://github.com/Annstasia/DBSM_BDSM/blob/main/PouchDB1.html - тут файлик после 10 пункта
 
