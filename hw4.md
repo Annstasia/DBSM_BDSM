@@ -1,5 +1,6 @@
 <h1>Relational H2</h1>
 <h2>История развития СУБД</h2>
+https://h2database.github.io/html/history.html
 Томас Мюллер разработал БД Java Hypersonic SQL. В 2001 году проект был остановлен, была создана группа HSQLDB (в которую также входил Мюллер) 
 для продолжения работы над кодом Hypersonic SQL. В мае 2004 года началась разработка H2, в декабре 2005 H2 была опубликованаю.
 Название H2 получилось как Hypersonic 2, хотя БД была написана с нуля
@@ -115,3 +116,26 @@ Support for multi-dimensional indexes
 ![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/eecdd5bb-ddb9-48b8-ad34-05203eaf4b4d)
 
 3. Доступ к консоли по логину и паролю
+
+
+<h2>Какие сообщества развивают данную СУБД? Кто в проекте имеет права на коммит и создание дистрибутива версий? Расскажите об этих людей и/или компаниях.</h2>
+https://h2database.github.io/html/history.html
+
+HSQLDB developer group развивает, но вообще проект open source https://github.com/h2database/h2database. 
+
+Среди активных участников проектов:
+
+Evgenij Ryazanov https://github.com/katzyn - часто коммитит и отвечает на stackoverflow, мерджит, создает дистрибутивы
+
+Andrei Tokar - часто коммитит и мерджит
+
+В целом pull request можно создавать всем. Неожиданно: pull-request (3 штуки) от мантикоры https://github.com/manticore-projects
+
+<h2>Где найти документацию и пройти обучение? Как быть в курсе происходящего?</h2>
+
+https://github.com/h2database/h2database
+
+https://h2database.github.io/html/main.html
+
+Можно следить за github, можно следить за https://groups.google.com/g/h2-database
+
