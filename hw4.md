@@ -35,4 +35,30 @@
 ![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/56d050ca-5b84-4a72-9cc5-903d06ada369)
 
 
+<h2>Какой database engine используется в вашей СУБД?</h2>
+Использует H2 database engine
+
+![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/09a8cc1a-2c85-430c-a528-b7cabc617b2a)
+
+<h2>Как устроен язык запросов в вашей СУБД? Разверните БД с данными и выполните ряд запросов. </h2>
+Использует язык запросов sql
+
+![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/c76a8605-662b-497d-95c9-bf00f9c5704b)
+
+![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/c6702284-3326-414d-a7d0-98b3cfd2693e)
+
+![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/4587353d-9d28-40f3-8da5-34014ebf8d38)
+
+![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/423b61ab-0880-4f6a-ba7f-161fef9c0f8c)
+
+![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/539ac1f9-3684-4a6a-8166-e67b74ea7af9)
+
+![image](https://github.com/Annstasia/DBSM_BDSM/assets/45208486/d0b6b1e8-e94b-4e6e-abf7-7f9df0dace57)
+
+<h3>Распределение файлов БД по разным носителям?</h3>
+1. Самое частое применение H2 в качестве in-memory. Носители не нужны
+2. Можно использовать как файловую
+
+
+
 
